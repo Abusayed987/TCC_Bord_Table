@@ -23,3 +23,28 @@ h3{
     padding: 8px;
     border-radius: 50px;
 }
+h4{
+    margin-left: 2%;
+}
+#website{
+    background-color: aquamarine;
+    padding: 7px;
+    display: inline-block;
+    margin-left: 50%;
+    border-radius: 5px;
+    transition: .3s;
+}
+#website:hover{
+    background-color: rgb(234, 225, 99);
+    transition: .4s;
+    color: blue;
+}
+a{
+    text-decoration: none;   
+}
+
+
+a:visited{
+    background-color: darksalmon;
+    color: black;
+}
